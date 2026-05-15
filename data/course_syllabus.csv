@@ -1,0 +1,45 @@
+course_id,section,week,title,content
+MAT4088,overview,,교과목개요,"본 수업은 IC-PBL 수업이며 이론과 실제 자료 분석을 통한 개인 혹은 팀별 프로젝트를 병행한다. 비지도 학습 방법론과 적용, 회귀와 분류를 위한 지도 학습, 앙상블 학습, 모델 평가, 특징 선택, 차원 축소를 포함한 기계 학습 기술의 입문 과정이다. 학생들은 머신러닝 이론과 자료 분석 알고리즘을 Python 소프트웨어 구현을 통해 배운다."
+MAT4088,objective,,수업목표,"기계 학습이 무엇인지 정확히 이해하고 주요 방법들을 익힌다. Python을 통한 데이터 분석을 연습하여 기계 학습을 사용한 데이터 분석 수행 능력을 기른다."
+MAT4088,topics,,교과목 주요주제,"지도학습, 비지도학습"
+MAT4088,prerequisite,,선수과목 안내,"미분적분학과 통계에 대한 지식이 필요하다. Python 기초 지식은 스스로 습득하며 아나콘다를 이용해 Python을 설치하거나 구글 코랩을 사용할 수 있다."
+MAT4088,textbook,,교재,"Introduction to Machine Learning with Python; Hands-On Machine Learning with Python and Scikit-Learn; Deep learning from scratch"
+MAT4088,reference,,부교재,"Pattern Recognition and Machine Learning, C. Bishop"
+MAT4088,evaluation,,평가항목,"출석 10%, 과제 40%, 기말고사 50%"
+MAT4088,week,1,머신러닝에 대한 소개,
+MAT4088,week,2,지도학습-회귀분석,
+MAT4088,week,3,지도학습-회귀분석,
+MAT4088,week,4,지도학습-분류,
+MAT4088,week,5,지도학습-분류,
+MAT4088,week,6,지도학습-분류,
+MAT4088,week,7,지도학습-분류,
+MAT4088,week,8,신경망,
+MAT4088,week,9,비지도학습 PCA,
+MAT4088,week,10,비지도학습 kMeans,
+MAT4088,week,11,PBL 중간발표,
+MAT4088,week,12,PBL 개별 과제 발표,
+MAT4088,week,13,PBL 최종발표,
+MAT4088,week,14,비지도학습 GMM,
+MAT4088,week,15,모델평가,
+MAT4088,week,16,기말고사,
+MAT3030,overview,,교과목개요,"도넛과 컵이 합동은 아니지만 위상적으로는 동형이라는 예시처럼 위상수학은 연속적인 변형에 의하여 불변인 도형의 성질을 연구하는 학문이다. 본 수업은 빅데이터 세상에서 위상수학의 중요성을 토론하고, 집합상의 멀고 가까움의 개념인 위상을 도입하며, 연속적인 변형에 의해 변하지 않는 위상적 성질을 학습한다."
+MAT3030,objective,,수업목표,"고차원 자료를 다룰 때 위상이 왜 중요하고 어떤 응용 문제에 사용되는지 이해한다. 정의를 이용해 논리적으로 증명하는 과정을 통해 수학적 사고력을 향상한다. 4차 혁명시대에 수학이 왜 중요한지 함께 논의한다."
+MAT3030,topics,,교과목 주요주제,"위상의 정의, 위상적 성질, 거리공간의 정의, 지금까지 배운 수학적 성질들을 위상적 관점에서 바라보기"
+MAT3030,textbook,,교재,"Principles of Topology, Fred H. Croom, Dover Publications"
+MAT3030,evaluation,,평가항목,"출석 10%, 퀴즈 10%, 과제 10%, 중간고사 35%, 기말고사 35%"
+MAT3030,week,1,Chapter 1 Introduction,"수업내용은 조정될 수 있음."
+MAT3030,week,2,Chapter 2. Line and plane,
+MAT3030,week,3,Chapter 2. Line and plane,
+MAT3030,week,4,Chapter 3 Metric spaces (3.1-4),
+MAT3030,week,5,Chapter 3 Metric spaces (3.1-4),
+MAT3030,week,6,Chapter 4 Topological spaces,
+MAT3030,week,7,Chapter 4 Topological spaces,
+MAT3030,week,8,Midterm test,
+MAT3030,week,9,Chapter 4 Topological spaces,
+MAT3030,week,10,Chapter 4 Topological spaces,
+MAT3030,week,11,Chapter 5 Connectedness (5.1-4),
+MAT3030,week,12,Chapter 5 Connectedness (5.1-4),
+MAT3030,week,13,Chapter 6 Compactness (6.1-3),
+MAT3030,week,14,Chapter 6 Compactness (6.1-3),
+MAT3030,week,15,Chapter 7. 7.5 Surfaces and manifolds / Application of topology,
+MAT3030,week,16,Final test,
