@@ -197,33 +197,6 @@ API 모드까지 사용할 경우 벡터스토어도 다시 생성합니다.
 python rag_pipeline.py --build-vectorstore
 ```
 
-## 팀원 역할 분담 예시
-
-- 데이터 담당: 수강편람 CSV 정리, 강의계획서 CSV 추가, 중복 과목 정리
-- RAG 담당: ChromaDB 검색 품질 개선, 프롬프트 개선, 추천 로직 조정
-- 백엔드 담당: SQLite 스키마, 데이터 파이프라인, 예외 처리
-- 프론트엔드 담당: Streamlit UI, 추천 카드, 강의계획서 화면, 비교 기능
-- 평가 담당: RAGAS 평가 데이터셋 구성, Faithfulness/Answer Relevancy/Context Recall 평가
-
-## GitHub 협업 방법
-
-처음 clone한 팀원은 아래 순서로 실행합니다.
-
-```bash
-git clone <repository-url>
-cd machine_learning_pj
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-python data_pipeline.py --db --real-data
-streamlit run app.py
-```
-
-각자 작업할 때는 기능별 브랜치를 만들어 작업하는 것을 권장합니다.
-
-```bash
-git checkout -b feature/syllabus-ui
-```
 
 ## 향후 확장 계획
 
