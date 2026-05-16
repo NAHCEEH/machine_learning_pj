@@ -90,7 +90,7 @@ project/
 
 ```bash
 cd ~/Desktop/project
-python3 -m venv .venv
+python3 -m venv .venv #윈도우 경우에는 python
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
